@@ -5,11 +5,11 @@
 #### How to run:
 1. Clone this repository.
     ```
-    git clone []
+    git clone https://github.com/zytfo/dl-assignment-1.git
     ```
 2. Move to repository folder.
     ```
-    cd []
+    cd dl-assignment-1
     ```
 3. Build the container.
     ```
