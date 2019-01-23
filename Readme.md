@@ -78,4 +78,5 @@ PyTorch was created by Facebook to help its services and now its used by Salesfo
 * It lacks model serving.
 
 
-# 3. Stackoverflow Answer (???)
+# 3. Stackoverflow Answer.
+[Very helpful instruction how to run your image using bind.](https://stackoverflow.com/a/54331409/10956750)
