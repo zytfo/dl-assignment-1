@@ -78,5 +78,8 @@ PyTorch was created by Facebook to help its services and now its used by Salesfo
 * It lacks model serving.
 
 
-# 3. Stackoverflow Answer.
-[Very helpful instruction how to run your image using bind.](https://stackoverflow.com/a/54331409/10956750)
+# 3. Stackoverflow Answers.
+Since I didn't hear that I had to answer only questions regarding ML frameworks, I've also answered docker's question.
+1. [Very helpful instruction how to run your image using bind.](https://stackoverflow.com/a/54331409/10956750)
+2. [Tensorflow begginer examples that not use MNIST.](https://stackoverflow.com/a/54369482/10956750)
+3. [Error importing tensorflow module.](https://stackoverflow.com/a/54378347/10956750)
